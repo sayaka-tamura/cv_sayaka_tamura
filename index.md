@@ -35,14 +35,14 @@ Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his exper
  
 ### PROJECT 
 #### CUNYCodes
-[github page](https://github.com/CUNYTech/closetShare)
+  [github page](https://github.com/CUNYTech/closetShare)
 September 2017 - December 2017
 * Selected to participate in an intensive portfolio development program, spending 10-12 weeks on a team building an application from scratch. Our team created a shopping web application to help a charitable organization.
 * Used HTML, CSS, React.js., Firebase, Java, PostgreSQL 
  
 ### HACKATHON
 #### The City University of New York Hackathon
-[github page](https://github.com/Nukki/attenDONE)
+  [github page](https://github.com/Nukki/attenDONE)
 April 2017                                                                                                                             Honorable mention
 * Created mobile app called attenDONE (Check-In system using an ID card that has a NFC tag)
 * Helped manage check-in process (e.g. school attendance)
