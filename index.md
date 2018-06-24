@@ -57,11 +57,13 @@ March 2003 B.A. in Imaging Art and Science
     * JIRA
     * Slack
     * Fiddler  
-<br />   
+<br />
+
 * Cloud: 
     * AWS EC2
     * AWS S3
-<br />   
+<br />
+
 * Analytics Software: 
     * Google Analytics  
 
