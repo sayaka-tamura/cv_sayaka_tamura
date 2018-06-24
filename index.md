@@ -24,14 +24,18 @@ Dean’s List: Fall 2013, Fall 2015
 
 #### Musashino Art University, Tokyo, Japan
 March 2003 B.A. in Imaging Art and Science 
---------------------------------------- 
+
+---------------------------------------  
+
 ### TECHNICAL SKILLS
 * Programming Languages: HTML, CSS, JavaScript, SQL, Sass, Java, PHP (for WordPress), R, Python, Assembly Language
 * Frameworks: Bootstrap, Express.js, Node.js React.js, JUnit 
 * Databases: Oracle SQL, MySQL (phpMyAdmin)
 * Development Tools: IntelliJ, Eclipse, Visual Studio, Android Studio, Git, JIRA, Slack, Fiddler
-* Cloud: AWS EC2, AWS S3 Analytics Software: Google Analytics 
---------------------------------------- 
+* Cloud: AWS EC2, AWS S3 Analytics Software: Google Analytics  
+
+---------------------------------------  
+
 ### RELEVANT EXPERIENCE
 #### U. S. Japan Publication N.Y. Inc., New York, NY
 
@@ -41,8 +45,10 @@ September 2016 – Present
 WordPress Developer (Intern)
 * Established creative and dependable website applying 3+ years’ experience • Utilize WordPress core software, database connectivity and its functions  
 * Execute and monitor standards for user interface page design and graphics development
-* Oversee the hosting environment for websites 
---------------------------------------- 
+* Oversee the hosting environment for websites  
+
+---------------------------------------  
+
 ### VOLUNTEER
 #### Black Girls CODE
 February 2017 – Present  
@@ -52,7 +58,9 @@ Help student teams build apps within a web-based tool, and help the students art
 #### Programming Assistant  
 November 2017 – December 2017  
 Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as We Have Forgotten the Physical.  
----------------------------------------
+
+---------------------------------------  
+
 ### PROJECT 
 #### CUNYCodes  
 
@@ -61,7 +69,9 @@ Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his exper
 September 2017 - December 2017  
 * Selected to participate in an intensive portfolio development program, spending 10-12 weeks on a team building an application from scratch. Our team created a shopping web application to help a charitable organization.
 * Used HTML, CSS, React.js., Firebase, Java, PostgreSQL 
---------------------------------------- 
+
+---------------------------------------  
+
 ### HACKATHON
 #### The City University of New York Hackathon  
 
@@ -74,7 +84,9 @@ April 2017                                                                      
  
 #### Sanshodo Printing Co., Ltd., Tokyo, Japan
 Editorial & Digital Imaging Designer  
-April 2004 – March 2011 
---------------------------------------- 
+April 2004 – March 2011  
+
+---------------------------------------  
+
 ### LANGUAGE SKILLS
 Fluent in spoken and written Japanese
