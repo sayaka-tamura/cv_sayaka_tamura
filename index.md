@@ -45,11 +45,12 @@ WordPress Developer (Intern)
  
 ### VOLUNTEER
 #### Black Girls CODE
-February 2017 – Present
-Technical Instructor Help student teams build apps within a web-based tool, and help the students articulate and scope their ideas into an app. 
+February 2017 – Present  
+Technical Instructor  
+Help student teams build apps within a web-based tool, and help the students articulate and scope their ideas into an app. 
  
-#### Programming Assistant
-November 2017 – December 2017
+#### Programming Assistant  
+November 2017 – December 2017  
 Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as We Have Forgotten the Physical.  
 
 ### PROJECT 
@@ -57,7 +58,7 @@ Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his exper
 
 [(Link) Project on github page](https://github.com/CUNYTech/closetShare)
 
-September 2017 - December 2017
+September 2017 - December 2017  
 * Selected to participate in an intensive portfolio development program, spending 10-12 weeks on a team building an application from scratch. Our team created a shopping web application to help a charitable organization.
 * Used HTML, CSS, React.js., Firebase, Java, PostgreSQL 
  
@@ -66,7 +67,7 @@ September 2017 - December 2017
 
 [(Link) Project on github page](https://github.com/Nukki/attenDONE)
 
-April 2017                                                                                                                             Honorable mention
+April 2017                                                                                                                             Honorable mention  
 * Created mobile app called attenDONE (Check-In system using an ID card that has a NFC tag)
 * Helped manage check-in process (e.g. school attendance)
 * Used Java, JSON, Android Studio, NFC tag, Slack, and GitHub 
