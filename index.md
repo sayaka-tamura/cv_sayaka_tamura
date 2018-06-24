@@ -6,7 +6,9 @@ Training covered exploration on how to be efficient in Agile-Scrum project metho
  
 #### Borough of Manhattan Community College, New York, NY
 January 2018 A.S. in Computer Science
-Dean’s List: Fall 2013, Fall 2015                                                                                                                                                                                                                                               #### Musashino Art University, Tokyo, Japan
+Dean’s List: Fall 2013, Fall 2015
+
+#### Musashino Art University, Tokyo, Japan
 March 2003 B.A. in Imaging Art and Science 
  
 ### TECHNICAL SKILLS
