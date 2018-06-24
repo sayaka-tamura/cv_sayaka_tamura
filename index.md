@@ -80,7 +80,9 @@ September 2017 - December 2017
 April 2017                                                                                                                             Honorable mention  
 * Created mobile app called attenDONE (Check-In system using an ID card that has a NFC tag)
 * Helped manage check-in process (e.g. school attendance)
-* Used Java, JSON, Android Studio, NFC tag, Slack, and GitHub 
+* Used Java, JSON, Android Studio, NFC tag, Slack, and GitHub  
+
+---------------------------------------  
  
 #### Sanshodo Printing Co., Ltd., Tokyo, Japan
 Editorial & Digital Imaging Designer  
