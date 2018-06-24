@@ -38,6 +38,7 @@ March 2003 B.A. in Imaging Art and Science
     * R
     * Python
     * Assembly Language
+
 <br />
 * Frameworks/Library: 
     * Bootstrap
