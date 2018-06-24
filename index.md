@@ -1,4 +1,4 @@
-### EDUCATION
+### **EDUCATION**
 #### Platform by Per Scholas, Bronx, NY
 March 2018 – Present Java Developer Training Course (anticipated date of graduation in June 2018)
 
