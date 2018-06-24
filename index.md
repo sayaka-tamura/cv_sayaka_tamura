@@ -6,6 +6,7 @@ Training covered exploration on how to be efficient in Agile-Scrum project metho
 
 ##### Projects
 [Google](https://www.google.com/)
+
 [Google](https://www.google.com/)
 
 #### Borough of Manhattan Community College, New York, NY
@@ -14,8 +15,11 @@ Dean’s List: Fall 2013, Fall 2015
 
 ##### Projects
 [Google](https://www.google.com/)
+
 [Google](https://www.google.com/)
+
 [Google](https://www.google.com/)
+
 [Google](https://www.google.com/)
 
 #### Musashino Art University, Tokyo, Japan
