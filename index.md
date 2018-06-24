@@ -35,7 +35,7 @@ March 2003 B.A. in Imaging Art and Science
 ### RELEVANT EXPERIENCE
 #### U. S. Japan Publication N.Y. Inc., New York, NY
 
-[Link: UJP NEWS](https://ujpdb.com/)
+[(Link) UJP NEWS](https://ujpdb.com/)
 
 September 2016 – Present
 WordPress Developer (Intern)
