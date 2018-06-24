@@ -39,7 +39,6 @@ March 2003 B.A. in Imaging Art and Science
     * Python
     * Assembly Language
 <br />
-
 * Frameworks/Library: 
     * Bootstrap
     * Sass
@@ -47,7 +46,6 @@ March 2003 B.A. in Imaging Art and Science
     * Node.js
     * MySQL (phpMyAdmin)  
 <br />
-
 * Development Tools: 
     * IntelliJ
     * Eclipse
