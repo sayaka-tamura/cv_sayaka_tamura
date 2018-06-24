@@ -39,14 +39,15 @@ March 2003 B.A. in Imaging Art and Science
     * Python
     * Assembly Language
 
-
+  
 * Frameworks/Library: 
     * Bootstrap
     * Sass
     * Express.js
     * Node.js
     * MySQL (phpMyAdmin)  
-    
+
+  
 * Development Tools: 
     * IntelliJ
     * Eclipse
