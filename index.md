@@ -35,7 +35,7 @@ March 2003 B.A. in Imaging Art and Science
 ### RELEVANT EXPERIENCE
 #### U. S. Japan Publication N.Y. Inc., New York, NY
 
-[UJP NEWS](https://ujpdb.com/)
+[Link: UJP NEWS](https://ujpdb.com/)
 
 September 2016 – Present
 WordPress Developer (Intern)
@@ -55,7 +55,7 @@ Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his exper
 ### PROJECT 
 #### CUNYCodes  
 
-[Project on github page](https://github.com/CUNYTech/closetShare)
+[Link: Project on github page](https://github.com/CUNYTech/closetShare)
 
 September 2017 - December 2017
 * Selected to participate in an intensive portfolio development program, spending 10-12 weeks on a team building an application from scratch. Our team created a shopping web application to help a charitable organization.
@@ -64,7 +64,7 @@ September 2017 - December 2017
 ### HACKATHON
 #### The City University of New York Hackathon  
 
-[Project on github page](https://github.com/Nukki/attenDONE)
+[Link: Project on github page](https://github.com/Nukki/attenDONE)
 
 April 2017                                                                                                                             Honorable mention
 * Created mobile app called attenDONE (Check-In system using an ID card that has a NFC tag)
