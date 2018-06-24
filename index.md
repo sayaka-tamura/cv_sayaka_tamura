@@ -28,11 +28,40 @@ March 2003 B.A. in Imaging Art and Science
 *****   
 
 ### TECHNICAL SKILLS
-* Programming Languages: HTML, CSS, JavaScript, SQL, Sass, Java, PHP (for WordPress), R, Python, Assembly Language
-* Frameworks: Bootstrap, Express.js, Node.js React.js, JUnit 
-* Databases: Oracle SQL, MySQL (phpMyAdmin)
-* Development Tools: IntelliJ, Eclipse, Visual Studio, Android Studio, Git, JIRA, Slack, Fiddler
-* Cloud: AWS EC2, AWS S3 Analytics Software: Google Analytics  
+* Programming Languages: 
+    * HTML
+    * CSS
+    * JavaScript
+    * SQL
+    * Java
+    * PHP (for WordPress)
+    * R
+    * Python
+    * Assembly Language
+    
+* Frameworks/Library: 
+    * Bootstrap
+    * Sass
+    * Express.js
+    * Node.js
+    * MySQL (phpMyAdmin)
+    
+* Development Tools: 
+    * IntelliJ
+    * Eclipse
+    * Visual Studio
+    * Android Studio
+    * Git
+    * JIRA
+    * Slack
+    * Fiddler
+    
+* Cloud: 
+    * AWS EC2
+    * AWS S3
+    
+* Analytics Software: 
+    * Google Analytics  
 
 *****  
 
