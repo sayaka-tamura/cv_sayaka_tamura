@@ -35,6 +35,7 @@ Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his exper
  
 ### PROJECT 
 #### CUNYCodes
+
 [github page](https://github.com/CUNYTech/closetShare)
 
 September 2017 - December 2017
@@ -43,6 +44,7 @@ September 2017 - December 2017
  
 ### HACKATHON
 #### The City University of New York Hackathon
+
 [github page](https://github.com/Nukki/attenDONE)
 
 April 2017                                                                                                                             Honorable mention
