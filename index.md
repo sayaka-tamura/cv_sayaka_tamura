@@ -72,7 +72,7 @@ April 2017                                                                      
 * Used Java, JSON, Android Studio, NFC tag, Slack, and GitHub 
  
 #### Sanshodo Printing Co., Ltd., Tokyo, Japan
-Editorial & Digital Imaging Designer
+Editorial & Digital Imaging Designer  
 April 2004 – March 2011 
  
 ### LANGUAGE SKILLS
