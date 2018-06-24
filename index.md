@@ -3,10 +3,20 @@
 March 2018 – Present Java Developer Training Course (anticipated date of graduation in June 2018)
 
 Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
- 
+
+##### Projects
+[Google](https://www.google.com/)
+[Google](https://www.google.com/)
+
 #### Borough of Manhattan Community College, New York, NY
 January 2018 A.S. in Computer Science  
 Dean’s List: Fall 2013, Fall 2015
+
+##### Projects
+[Google](https://www.google.com/)
+[Google](https://www.google.com/)
+[Google](https://www.google.com/)
+[Google](https://www.google.com/)
 
 #### Musashino Art University, Tokyo, Japan
 March 2003 B.A. in Imaging Art and Science 
@@ -20,6 +30,9 @@ March 2003 B.A. in Imaging Art and Science
  
 ### RELEVANT EXPERIENCE
 #### U. S. Japan Publication N.Y. Inc., New York, NY
+
+[UJP NEWS](https://ujpdb.com/)
+
 September 2016 – Present
 WordPress Developer (Intern)
 * Established creative and dependable website applying 3+ years’ experience • Utilize WordPress core software, database connectivity and its functions  
@@ -34,11 +47,11 @@ Technical Instructor Help student teams build apps within a web-based tool, and 
 #### Programming Assistant
 November 2017 – December 2017
 Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as We Have Forgotten the Physical.  
- 
+
 ### PROJECT 
 #### CUNYCodes  
 
-[github page](https://github.com/CUNYTech/closetShare)
+[Project on github page](https://github.com/CUNYTech/closetShare)
 
 September 2017 - December 2017
 * Selected to participate in an intensive portfolio development program, spending 10-12 weeks on a team building an application from scratch. Our team created a shopping web application to help a charitable organization.
@@ -47,7 +60,7 @@ September 2017 - December 2017
 ### HACKATHON
 #### The City University of New York Hackathon  
 
-[github page](https://github.com/Nukki/attenDONE)
+[Project on github page](https://github.com/Nukki/attenDONE)
 
 April 2017                                                                                                                             Honorable mention
 * Created mobile app called attenDONE (Check-In system using an ID card that has a NFC tag)
