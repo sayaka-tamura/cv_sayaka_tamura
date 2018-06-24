@@ -25,7 +25,7 @@ Dean’s List: Fall 2013, Fall 2015
 #### Musashino Art University, Tokyo, Japan
 March 2003 B.A. in Imaging Art and Science 
 
----------------------------------------  
+*****   
 
 ### TECHNICAL SKILLS
 * Programming Languages: HTML, CSS, JavaScript, SQL, Sass, Java, PHP (for WordPress), R, Python, Assembly Language
@@ -34,7 +34,7 @@ March 2003 B.A. in Imaging Art and Science
 * Development Tools: IntelliJ, Eclipse, Visual Studio, Android Studio, Git, JIRA, Slack, Fiddler
 * Cloud: AWS EC2, AWS S3 Analytics Software: Google Analytics  
 
----------------------------------------  
+*****  
 
 ### RELEVANT EXPERIENCE
 #### U. S. Japan Publication N.Y. Inc., New York, NY
