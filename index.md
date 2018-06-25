@@ -38,7 +38,7 @@ March 2003 B.A. in Imaging Art and Science
     * R
     * Python
     * Assembly Language
-<br />
+<br />  
 
 * Frameworks/Library: 
     * Bootstrap
@@ -46,7 +46,7 @@ March 2003 B.A. in Imaging Art and Science
     * Express.js
     * Node.js
     * MySQL (phpMyAdmin)  
-<br />
+<br />  
 
 * Development Tools: 
     * IntelliJ
@@ -57,12 +57,12 @@ March 2003 B.A. in Imaging Art and Science
     * JIRA
     * Slack
     * Fiddler  
-<br />
+<br />  
 
 * Cloud: 
     * AWS EC2
     * AWS S3
-<br />
+<br />  
 
 * Analytics Software: 
     * Google Analytics  
