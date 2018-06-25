@@ -29,8 +29,11 @@ Dean’s List: Fall 2013, Fall 2015
 
 ##### Pick Up Projects (Others)
 [Java Basics](https://github.com/sayaka-tamura/java)
+
 [Java Algorithm](https://github.com/sayaka-tamura/algorithm_Java)
+
 [Assembly Language](https://github.com/sayaka-tamura/AssemblyLanguage-MASM)
+
 [R](https://github.com/sayaka-tamura/R)
 
 #### Musashino Art University, Tokyo, Japan
