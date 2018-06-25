@@ -1,19 +1,19 @@
-### EDUCATION
-#### Platform by Per Scholas, Bronx, NY
+## EDUCATION
+### Platform by Per Scholas, Bronx, NY
 March 2018 – Present Java Developer Training Course (anticipated date of graduation in June 2018)
 
 Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
 
-##### Pick Up Projects
+#### Pick Up Projects
 [Final Project (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/finalCaseStudies_springMVC)
 
 [36 hours Clock (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/Week9_HTML/MyProject_ClockLong)
 
-#### Borough of Manhattan Community College, New York, NY
+### Borough of Manhattan Community College, New York, NY
 January 2018 A.S. in Computer Science  
 Dean’s List: Fall 2013, Fall 2015
 
-##### Pick Up Projects (Web Development Only)
+#### Pick Up Projects (Web Development Only)
 
 [WordPress template for Blog (Your Whole Life)](https://github.com/sayaka-tamura/WPtemplate_YourWholeLife/commits/master)
 
@@ -27,7 +27,7 @@ Dean’s List: Fall 2013, Fall 2015
 
 [Karaoke Duet 35th Website](https://github.com/sayaka-tamura/KaraokeDuet_Website)
 
-##### Pick Up Projects (Others)
+#### Pick Up Projects (Others)
 [Java Basics](https://github.com/sayaka-tamura/java)
 
 [Java Algorithm](https://github.com/sayaka-tamura/algorithm_Java)
@@ -36,12 +36,12 @@ Dean’s List: Fall 2013, Fall 2015
 
 [R](https://github.com/sayaka-tamura/R)
 
-#### Musashino Art University, Tokyo, Japan
+### Musashino Art University, Tokyo, Japan
 March 2003 B.A. in Imaging Art and Science 
 
 *****   
 
-### TECHNICAL SKILLS
+## TECHNICAL SKILLS
 * Programming Languages: 
     * HTML
     * CSS
@@ -53,7 +53,7 @@ March 2003 B.A. in Imaging Art and Science
     * Python
     * Assembly Language
 <br />  
-
+<br /> 
 * Frameworks/Library: 
     * Bootstrap
     * Sass
@@ -77,14 +77,14 @@ March 2003 B.A. in Imaging Art and Science
     * AWS EC2
     * AWS S3
 <br />  
-
+<br /> 
 * Analytics Software: 
     * Google Analytics  
 
 *****  
 
-### RELEVANT EXPERIENCE
-#### U. S. Japan Publication N.Y. Inc., New York, NY
+## RELEVANT EXPERIENCE
+### U. S. Japan Publication N.Y. Inc., New York, NY
 
 [(Link) UJP NEWS](https://ujpdb.com/)
 
@@ -97,17 +97,17 @@ WordPress Developer (Intern)
 
 ---------------------------------------  
 
-### VOLUNTEER
-#### Black Girls CODE
+## VOLUNTEER
+### Black Girls CODE
 February 2017 – Present  
 Technical Instructor  
 Help student teams build apps within a web-based tool, and help the students articulate and scope their ideas into an app. 
  
-#### Programming Assistant  
+### Programming Assistant  
 November 2017 – December 2017  
 Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as We Have Forgotten the Physical.  
 
-#### Front-end Developer of a movie for fundraising
+### Front-end Developer of a movie for fundraising
 [Shia](https://www.sayaka-tmr.com/works/shia-movie/)
 
 Fall 2016
@@ -115,8 +115,8 @@ designed to make people interested in the film that a director produces and to m
 
 ---------------------------------------  
 
-### PROJECT 
-#### CUNYCodes  
+## PROJECT 
+### CUNYCodes  
 
 [(Link) Project on github page](https://github.com/CUNYTech/closetShare)
 
@@ -126,8 +126,8 @@ September 2017 - December 2017
 
 ---------------------------------------  
 
-### HACKATHON
-#### The City University of New York Hackathon  
+## HACKATHON
+### The City University of New York Hackathon  
 
 [(Link) Project on github page](https://github.com/Nukki/attenDONE)
 
@@ -138,11 +138,11 @@ April 2017                                                                      
 
 ---------------------------------------  
  
-#### Sanshodo Printing Co., Ltd., Tokyo, Japan
+### Sanshodo Printing Co., Ltd., Tokyo, Japan
 Editorial & Digital Imaging Designer  
 April 2004 – March 2011  
 
 ---------------------------------------  
 
-### LANGUAGE SKILLS
+## LANGUAGE SKILLS
 Fluent in spoken and written Japanese
