@@ -54,6 +54,7 @@ March 2003 B.A. in Imaging Art and Science
     * Assembly Language
 <br />  
 <br /> 
+
 * Frameworks/Library: 
     * Bootstrap
     * Sass
@@ -77,7 +78,8 @@ March 2003 B.A. in Imaging Art and Science
     * AWS EC2
     * AWS S3
 <br />  
-<br /> 
+<br />  
+
 * Analytics Software: 
     * Google Analytics  
 
