@@ -17,7 +17,7 @@ Dean’s List: Fall 2013, Fall 2015
 
 #### Pick Up Projects (Web Development Only)
 
-[WordPress template for Blog (Your Whole Life)](https://github.com/sayaka-tamura/WPtemplate_YourWholeLife/commits/master)
+[WordPress template for Blog (Your Whole Life)](https://github.com/sayaka-tamura/WPtemplate_YourWholeLife)
 
 [Website for the event "Careers In The Arts"](https://github.com/sayaka-tamura/CareersInTheArts_Responsive)
 
