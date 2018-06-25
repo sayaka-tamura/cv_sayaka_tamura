@@ -1,5 +1,6 @@
 ## EDUCATION
-### Platform by Per Scholas, Bronx, NY
+### Platform by Per Scholas  
+Bronx, NY  
 March 2018 – Present Java Developer Training Course (anticipated date of graduation in June 2018)
 
 Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
@@ -9,7 +10,8 @@ Training covered exploration on how to be efficient in Agile-Scrum project metho
 
 [36 hours Clock (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/Week9_HTML/MyProject_ClockLong)
 
-### Borough of Manhattan Community College, New York, NY
+### Borough of Manhattan Community College  
+New York, NY  
 January 2018 A.S. in Computer Science  
 Dean’s List: Fall 2013, Fall 2015
 
@@ -36,7 +38,8 @@ Dean’s List: Fall 2013, Fall 2015
 
 [R](https://github.com/sayaka-tamura/R)
 
-### Musashino Art University, Tokyo, Japan
+### Musashino Art University  
+Tokyo, Japan  
 March 2003 B.A. in Imaging Art and Science 
 
 *****   
@@ -84,8 +87,8 @@ March 2003 B.A. in Imaging Art and Science
 *****  
 
 ## RELEVANT EXPERIENCE
-### U. S. Japan Publication N.Y. Inc., New York, NY
-
+### U. S. Japan Publication N.Y., Inc.  
+New York, NY  
 [(Link) UJP NEWS](https://ujpdb.com/)
 
 September 2016 – Present
@@ -138,7 +141,8 @@ April 2017                                                                      
 
 ---------------------------------------  
  
-### Sanshodo Printing Co., Ltd., Tokyo, Japan
+### Sanshodo Printing Co., Ltd.,  
+Tokyo, Japan  
 Editorial & Digital Imaging Designer  
 April 2004 – March 2011  
 
