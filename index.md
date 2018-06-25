@@ -5,9 +5,9 @@ March 2018 – Present Java Developer Training Course (anticipated date of gradu
 Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
 
 ##### Pick Up Projects
-[Final Project(not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/finalCaseStudies_springMVC)
+[Final Project (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/finalCaseStudies_springMVC)
 
-[36 hours Clock(not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/Week9_HTML/MyProject_ClockLong)
+[36 hours Clock (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/Week9_HTML/MyProject_ClockLong)
 
 #### Borough of Manhattan Community College, New York, NY
 January 2018 A.S. in Computer Science  
