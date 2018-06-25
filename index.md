@@ -5,22 +5,33 @@ March 2018 – Present Java Developer Training Course (anticipated date of gradu
 Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
 
 ##### Pick Up Projects
-[Google](https://www.google.com/)
+[Final Project(not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/finalCaseStudies_springMVC)
 
-[Google](https://www.google.com/)
+[36 hours Clock(not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/Week9_HTML/MyProject_ClockLong)
 
 #### Borough of Manhattan Community College, New York, NY
 January 2018 A.S. in Computer Science  
 Dean’s List: Fall 2013, Fall 2015
 
-##### Pick Up Projects
-[Google](https://www.google.com/)
+##### Pick Up Projects (Web Development Only)
 
-[Google](https://www.google.com/)
+[WordPress template for Blog (Your Whole Life)](https://github.com/sayaka-tamura/WPtemplate_YourWholeLife/commits/master)
 
-[Google](https://www.google.com/)
+[Website for the event "Careers In The Arts"](https://github.com/sayaka-tamura/CareersInTheArts_Responsive)
 
-[Google](https://www.google.com/)
+[WordPress template for making portfolio site](https://github.com/sayaka-tamura/WPtemplate_Portfolio)
+
+[Website for Leo Lionni](https://github.com/sayaka-tamura/leolionni_Portfolio)
+
+[Mcdonalds Q&A site](https://github.com/sayaka-tamura/mcdonaldsQandA)
+
+[Karaoke Duet 35th Website](https://github.com/sayaka-tamura/KaraokeDuet_Website)
+
+##### Pick Up Projects (Others)
+[Java Basics](https://github.com/sayaka-tamura/java)
+[Java Algorithm](https://github.com/sayaka-tamura/algorithm_Java)
+[Assembly Language](https://github.com/sayaka-tamura/AssemblyLanguage-MASM)
+[R](https://github.com/sayaka-tamura/R)
 
 #### Musashino Art University, Tokyo, Japan
 March 2003 B.A. in Imaging Art and Science 
@@ -76,7 +87,8 @@ March 2003 B.A. in Imaging Art and Science
 
 September 2016 – Present
 WordPress Developer (Intern)
-* Established creative and dependable website applying 3+ years’ experience • Utilize WordPress core software, database connectivity and its functions  
+* Established creative and dependable website applying 3+ years’ experience
+* Utilize WordPress core software, database connectivity and its functions  
 * Execute and monitor standards for user interface page design and graphics development
 * Oversee the hosting environment for websites  
 
@@ -91,6 +103,12 @@ Help student teams build apps within a web-based tool, and help the students art
 #### Programming Assistant  
 November 2017 – December 2017  
 Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as We Have Forgotten the Physical.  
+
+#### Front-end Developer of a movie for fundraising
+[Shia](https://www.sayaka-tmr.com/works/shia-movie/)
+
+Fall 2016
+designed to make people interested in the film that a director produces and to motivate donation.
 
 ---------------------------------------  
 
