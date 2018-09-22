@@ -94,7 +94,9 @@ B.A. in Imaging Art and Science
 New York, NY  
 [(Link) SET SHOP](https://setshop.com/)  
 [(Link) SET SHOP JAPAN](https://setshop.online/)  
-June 2018 - Present
+  
+June 2018 - Present  
+Web Developer  
 * Made a new website alone from scratch for Japanese market
 * Made product lists organizing more than 700 products that the company handles
 * Increased 107 % SNS followers at maximum
