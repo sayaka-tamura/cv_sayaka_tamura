@@ -91,9 +91,9 @@ B.A. in Imaging Art and Science
 
 ## RELEVANT EXPERIENCE
 ### SET SHOP
-New York, NY
-[(Link) SET SHOP](https://setshop.com/)
-[(Link) SET SHOP JAPAN](https://setshop.online/)
+New York, NY  
+[(Link) SET SHOP](https://setshop.com/)  
+[(Link) SET SHOP JAPAN](https://setshop.online/)  
 June 2018 - Present
 * Made a new website alone from scratch for Japanese market
 * Made product lists organizing more than 700 products that the company handles
