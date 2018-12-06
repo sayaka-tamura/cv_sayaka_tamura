@@ -99,7 +99,7 @@ June 2018 - Present
 Web Developer  
 * Made a new website alone from scratch for Japanese market
 * Made product lists organizing more than 700 products that the company handles
-* Increased 107 % SNS followers at maximum
+* Increased more than 130 % SNS followers at maximum in 3 months
 
 ### U. S. Japan Publication N.Y., Inc.  
 New York, NY  
