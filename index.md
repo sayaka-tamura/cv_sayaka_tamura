@@ -1,7 +1,7 @@
 ## EDUCATION
 ### Platform by Per Scholas  
 Bronx, NY  
-March 2018 – Present  
+March 2018 – June 2018  
 Java Developer Training Course (anticipated date of graduation in June 2018)
 
 Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
