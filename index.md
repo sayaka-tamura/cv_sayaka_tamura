@@ -127,7 +127,6 @@ Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his exper
 
 ### Front-end Developer of a movie for fundraising
 [Shia](https://www.sayaka-tmr.com/works/shia-movie/)  
-
 Fall 2016  
 designed to make people interested in the film that a director produces and to motivate donation.
 
