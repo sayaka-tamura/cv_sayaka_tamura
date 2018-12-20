@@ -90,6 +90,11 @@ B.A. in Imaging Art and Science
 *****  
 
 ## RELEVANT EXPERIENCE
+### Rain or Shine  
+[(Link) Rain or Shine](https://rainorshine.com/)  
+New York, NY  
+Nov 2018 – Present 
+
 ### SET SHOP
 New York, NY  
 [(Link) SET SHOP](https://setshop.com/)  
