@@ -96,10 +96,10 @@ New York, NY
 [(Link) SET SHOP JAPAN](https://setshop.online/)  
   
 June 2018 - Present  
-Web Developer  
+Freelance Web Developer  
 * Made a new website alone from scratch for Japanese market
 * Made product lists organizing more than 700 products that the company handles
-* Increased more than 130 % SNS followers at maximum in 3 months
+* Increased more than 200 % SNS followers at maximum in 6 months
 
 ### U. S. Japan Publication N.Y., Inc.  
 New York, NY  
