@@ -105,7 +105,7 @@ Freelance Web Developer
 New York, NY  
 [(Link) UJP NEWS](https://ujpdb.com/)
 
-September 2016 – Present
+September 2016 – Present  
 WordPress Developer (Intern)
 * Established creative and dependable website applying 3+ years’ experience
 * Utilize WordPress core software, database connectivity and its functions  
