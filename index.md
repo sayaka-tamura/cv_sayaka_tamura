@@ -94,6 +94,7 @@ B.A. in Imaging Art and Science
 New York, NY  
 [(Link) Rain or Shine](https://rainorshine.com/)  
 Nov 2018 – Present  
+Freelance Web Developer  
 
 ### SET SHOP
 New York, NY  
