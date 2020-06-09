@@ -1,4 +1,4 @@
-## EDUCATION
+# EDUCATION
 ### Platform by Per Scholas  
 Bronx, NY（March 2018 – June 2018）  
 Java Developer Training Course (anticipated date of graduation in June 2018)
@@ -46,10 +46,10 @@ A.S. in Computer Science
 ### Musashino Art University  
 Tokyo, Japan（March 2003）  
 B.A. in Imaging Art and Science 
-
+ 
 *****  
 
-## TECHNICAL SKILLS
+# TECHNICAL SKILLS
 * Programming Languages: 
     * HTML
     * CSS
@@ -91,7 +91,7 @@ B.A. in Imaging Art and Science
 
 *****  
 
-## RELEVANT EXPERIENCE
+# RELEVANT EXPERIENCE
 ### Rain or Shine  
 New York, NY  
 [(Link) Rain or Shine](https://rainorshine.com/)  
@@ -125,18 +125,18 @@ Tokyo, Japan
 Editorial & Digital Imaging Designer  
 April 2004 – March 2011  
 
-## VOLUNTEER
-#### Black Girls CODE
+# VOLUNTEER
+### Black Girls CODE
 February 2017 – Present  
 Technical Instructor  
 Help student teams build apps within a web-based tool, and help the students articulate and scope their ideas into an app. 
  
-#### Programming Assistant
+### Programming Assistant
 [Waterfall](http:mediaambitiontokyo.jp/waterfall/)  
 November 2017 – December 2017  
 Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as We Have Forgotten the Physical.  
 
-#### Front-end Developer of a movie for fundraising
+### Front-end Developer of a movie for fundraising
 [Shia](https://www.sayaka-tmr.com/works/shia-movie/) 【Closed】
 Fall 2016  
 designed to make people interested in the film that a director produces and to motivate donation.
@@ -144,8 +144,8 @@ designed to make people interested in the film that a director produces and to m
 
 ---------------------------------------  
 
-## PROJECT 
-#### CUNYCodes  
+# PROJECT 
+### CUNYCodes  
 
 [(Link) Project on github page](https://github.com/CUNYTech/closetShare)
 
@@ -155,8 +155,8 @@ September 2017 - December 2017
 
 ---------------------------------------  
 
-## HACKATHON
-#### The City University of New York Hackathon  
+# HACKATHON
+### The City University of New York Hackathon  
 
 [(Link) Project on github page](https://github.com/Nukki/attenDONE)
 
