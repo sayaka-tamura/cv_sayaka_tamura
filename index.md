@@ -58,6 +58,7 @@
 
 ### U. S. Japan Publication N.Y., Inc.  
 *WordPress Developer (Intern)* ＜New York, NY＞（September 2016 - June 2019）
+
 [【Website 1】](https://ujpdb.com/) [【Website 2】](https://restaurantguide.ujpdb.com/)
 
 * Migrated, redesigned, customized the company WordPress website
@@ -67,6 +68,7 @@
 ### Freelance 
  
 *Web Developer | Research Assistant* ＜New York, NY＞（Dec 2018 - June 2019）
+
  [【Website 1】](https://rainorshine.com/)  [【Website 2】](https://setshop.com/)  [【Website 3】](https://setshop.online/)  
 
 + Design, build and manage EC sites using WordPress, Shopify, Wix, BigCommerce and Amazon store
