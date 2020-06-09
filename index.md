@@ -47,6 +47,7 @@ A.S. in Computer Science
 Tokyo, Japan（March 2003）  
 B.A. in Imaging Art and Science 
 
+*****  
 
 ## TECHNICAL SKILLS
 * Programming Languages: 
