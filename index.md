@@ -1,3 +1,41 @@
+# RELEVANT EXPERIENCE
+### Vicent Co,.Ltd.
+*System Engineer (Full-time)* ＜Tokyo, Japan＞（July 2019 – Present）
+
+* Develop, operate, maintain, and test of a knowledge sharing system at a major advertising agency and a parts ordering system at a major content-related business company
+* Create test plans and test cases, and execute it on integration test of web invoicing system at a major power company
+
+
+### U. S. Japan Publication N.Y., Inc.  
+*WordPress Developer (Intern)* ＜New York, NY＞（September 2016 - June 2019）
+
+[【Website 1】](https://ujpdb.com/) [【Website 2】](https://restaurantguide.ujpdb.com/)
+
+* Migrated, redesigned, customized the company WordPress website
+* Operated and Maintained the website, publish mockup website using AWS  
+* Improved UI / UX and graphics design
+
+### Freelance 
+ 
+*Web Developer | Research Assistant* ＜New York, NY＞（Dec 2018 - June 2019）
+
+
+ [【Website 1】](https://rainorshine.com/)  [【Website 2】](https://setshop.com/)  [【Website 3】](https://setshop.online/)  
+
++ Design, build and manage EC sites using WordPress, Shopify, Wix, BigCommerce and Amazon store
++ Analysis of SEO measures and access logs using Google Analytics
++ Survey work on papers centered on advanced technologies
+
+
+### Sanshodo Printing Co., Ltd.  
+*Editorial & Digital Imaging Designer* ＜Tokyo, Japan＞（April 2004 – March 2011）
+
+* Produced various media such as books, magazines, posters, and leaflets
+* Engaged in editing photographs, corrective working of illustrator data given by designer and publishing companies, and outputting proofs of these data
+* Trained freshman workers, temporary workers and part-time workers
+
+---------------------------------------  
+
 # EDUCATION
 ### Platform by Per Scholas
 *Java Developer Training Course* ＜Bronx, NY＞（March 2018 - June 2018）  
@@ -48,52 +86,14 @@
  
 *****  
 
-# RELEVANT EXPERIENCE
-### Vicent Co,.Ltd.
-*System Engineer (Full-time)* ＜Tokyo, Japan＞（July 2019 – Present）
-
-* Develop, operate, maintain, and test of a knowledge sharing system at a major advertising agency and a parts ordering system at a major content-related business company
-* Create test plans and test cases, and execute it on integration test of web invoicing system at a major power company
-
-
-### U. S. Japan Publication N.Y., Inc.  
-*WordPress Developer (Intern)* ＜New York, NY＞（September 2016 - June 2019）
-
-[【Website 1】](https://ujpdb.com/) [【Website 2】](https://restaurantguide.ujpdb.com/)
-
-* Migrated, redesigned, customized the company WordPress website
-* Operated and Maintained the website, publish mockup website using AWS  
-* Improved UI / UX and graphics design
-
-### Freelance 
- 
-*Web Developer・Research Assistant* ＜New York, NY＞（Dec 2018 - June 2019）
-
-
- [【Website 1】](https://rainorshine.com/)  [【Website 2】](https://setshop.com/)  [【Website 3】](https://setshop.online/)  
-
-+ Design, build and manage EC sites using WordPress, Shopify, Wix, BigCommerce and Amazon store
-+ Analysis of SEO measures and access logs using Google Analytics
-+ Survey work on papers centered on advanced technologies
-
-
-### Sanshodo Printing Co., Ltd.  
-*Editorial & Digital Imaging Designer* ＜Tokyo, Japan＞（April 2004 – March 2011）
-
-* Produced various media such as books, magazines, posters, and leaflets
-* Engaged in editing photographs, corrective working of illustrator data given by designer and publishing companies, and outputting proofs of these data
-* Trained freshman workers, temporary workers and part-time workers
-
----------------------------------------  
-
 # VOLUNTEER
 ### Black Girls CODE
-*Technical Instructor* ＜New York, NY＞（February 2017 – Present） 
+*Technical Instructor* ＜New York, NY＞（February 2017 - February 2019） 
 
 * Helped student teams build apps within a web-based tool, and help the students articulate and scope their ideas into an app. 
  
 ### Media Artist's Assistant
-*Programming Assistant* ＜New York, NY＞（November 2017 – December 2017）
+*Programming Assistant* ＜New York, NY＞（November 2017 - December 2017）
 
    [【Exhibition Website : "Waterfall"】](http://mediaambitiontokyo.jp/2018/waterfall/)  
 
