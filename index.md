@@ -1,21 +1,21 @@
 ## EDUCATION
-### Platform by Per Scholas  
-Bronx, NY  
-March 2018 – June 2018  
-Java Developer Training Course (anticipated date of graduation in June 2018)
+    ### Platform by Per Scholas  
+    Bronx, NY  
+    March 2018 – June 2018  
+    Java Developer Training Course (anticipated date of graduation in June 2018)
 
-Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
+    Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
 
-#### Pick Up Projects
-[Final Project (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/finalCaseStudies_springMVC)
+    #### Pick Up Projects
+    [Final Project (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/finalCaseStudies_springMVC)
 
-[36 hours Clock (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/Week9_HTML/MyProject_ClockLong)
+    [36 hours Clock (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/Week9_HTML/MyProject_ClockLong)
 
-### Borough of Manhattan Community College  
-New York, NY  
-January 2018  
-A.S. in Computer Science  
-Dean’s List: Fall 2013, Fall 2015
+    ### Borough of Manhattan Community College  
+    New York, NY  
+    January 2018  
+    A.S. in Computer Science  
+    Dean’s List: Fall 2013, Fall 2015
 
 #### Pick Up Projects (Web Development Only)
 
