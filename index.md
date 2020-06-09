@@ -95,7 +95,7 @@
 ### Media Artist's Assistant
 *Programming Assistant* ＜New York, NY＞（November 2017 – December 2017）
 
-[【Exhibition Website : "Waterfall"】](http://mediaambitiontokyo.jp/2018/waterfall/)  
+   [【Exhibition Website : "Waterfall"】](http://mediaambitiontokyo.jp/2018/waterfall/)  
 
 * Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as *"We Have Forgotten the Physical"*.  
 
