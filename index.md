@@ -69,7 +69,6 @@
  
 *Web Developer | Research Assistant* ＜New York, NY＞（Dec 2018 - June 2019）
 
-
  [【Website 1】](https://rainorshine.com/)  [【Website 2】](https://setshop.com/)  [【Website 3】](https://setshop.online/)  
 
 + Design, build and manage EC sites using WordPress, Shopify, Wix, BigCommerce and Amazon store
