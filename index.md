@@ -146,13 +146,11 @@ Fluent in spoken and written Japanese
 * Databases:
     * MySQL
     * PostgreSQL
-    * Oracle
-<br /> 
+    * Oracle 
  
 * Application Servers:
     * Apache
-    * Tomcat
-<br />  
+    * Tomcat  
 
 * Frameworks/Libraries: 
     * Java
@@ -161,13 +159,11 @@ Fluent in spoken and written Japanese
         * Laravel
     * JavaScript
         * Node.js, Express.js
-<br />  
 
 * Insrastructures: 
     * AWS
     * Firebase
-    * Heroku 
-<br /> 
+    * Heroku  
 
 * Software Configuration Management: 
     * VCS / Project Management
@@ -177,8 +173,7 @@ Fluent in spoken and written Japanese
         * Redmine
         * JIRA
     * CI
-        * Jenkins
-<br />  
+        * Jenkins 
 
 * Analytics Software: 
     * Google Analytics  
