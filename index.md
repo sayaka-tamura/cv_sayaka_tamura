@@ -161,7 +161,7 @@ April 2017                                                                      
 
 ---------------------------------------  
  
-### Sanshodo Printing Co., Ltd.,  
+### Sanshodo Printing Co., Ltd.  
 Tokyo, Japan  
 Editorial & Digital Imaging Designer  
 April 2004 – March 2011  
