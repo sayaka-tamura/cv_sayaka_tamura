@@ -41,7 +41,7 @@
 *Java Developer Training Course* ＜Bronx, NY＞（March 2018 - June 2018）  
 
 
-   Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
+* Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
 
 ##### Pick Up Projects
 * [Final Project (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/finalCaseStudies_springMVC)
@@ -54,24 +54,24 @@
 - Dean’s List: Fall 2013, Fall 2015
 
 ##### Pick Up Projects
-* WordPress template for Blog （Your Whole Life） [【Website】](http://wpmmp.bmcc.cuny.edu/~stamura/350final/) [【Github】](https://github.com/sayaka-tamura/WPtemplate_YourWholeLife)
+* WordPress template for Blog （Your Whole Life） [【Website】](http://wpmmp.bmcc.cuny.edu/~stamura/350final/) [【GitHub】](https://github.com/sayaka-tamura/WPtemplate_YourWholeLife)
 
 * Website for the event "Careers In The Arts" [【Website】](http://mmp.bmcc.cuny.edu/sayaka.tamura/MMP240/finalProject/Info.html)
-[【Github】](https://github.com/sayaka-tamura/CareersInTheArts_Responsive)
+[【GitHub】](https://github.com/sayaka-tamura/CareersInTheArts_Responsive)
 
 * WordPress template for making portfolio site  [【Website】](http://wpmmp.bmcc.cuny.edu/~stamura/portfolio/)
-[【Github】](https://github.com/sayaka-tamura/WPtemplate_Portfolio)
+[【GitHub】](https://github.com/sayaka-tamura/WPtemplate_Portfolio)
 
 * Website for Leo Lionni  [【Website】](http://mmp.bmcc.cuny.edu/sayaka.tamura/MMP100/MMP_Final/index.html)
-[【Github】](https://github.com/sayaka-tamura/leolionni_Portfolio)
+[【GitHub】](https://github.com/sayaka-tamura/leolionni_Portfolio)
 
 * Mcdonalds Q&A site [【Website】](http://mmp.bmcc.cuny.edu/sayaka.tamura/MMP210/Midterm/MMP210-midTerm.html)
-[【Github】](https://github.com/sayaka-tamura/mcdonaldsQandA)
+[【GitHub】](https://github.com/sayaka-tamura/mcdonaldsQandA)
 
 * Karaoke Duet 35th Website [【Website】](http://mmp.bmcc.cuny.edu/sayaka.tamura/MMP100/MMP100_Midterm/KaraokeDuet53_top.html)
-[【Github】](https://github.com/sayaka-tamura/KaraokeDuet_Website)
+[【GitHub】](https://github.com/sayaka-tamura/KaraokeDuet_Website)
 
-##### Pick Up Projects (Github)
+##### Pick Up Projects (GitHub)
 * [Java Basics](https://github.com/sayaka-tamura/java)
 
 * [Java Algorithm](https://github.com/sayaka-tamura/algorithm_Java)
@@ -108,21 +108,17 @@
 
 # PROJECT 
 ### CUNYCodes  
+＜New York, NY＞（September 2017 - December 2017）  [【Website】](https://closet-share.firebaseapp.com/#/)[【GitHub】](https://github.com/CUNYTech/closetShare)
 
-[(Link) Project on github page](https://github.com/CUNYTech/closetShare)
-
-（September 2017 - December 2017） 
 * Selected to participate in an intensive portfolio development program, spending 10-12 weeks on a team building an application from scratch. Our team created a shopping web application to help a charitable organization.
 * Used HTML, CSS, React.js., Firebase, Java, PostgreSQL 
 
 ---------------------------------------  
 
 # HACKATHON
-### The City University of New York Hackathon  
+### The City University of New York Hackathon 
+*Honorable mention* ＜New York, NY＞（April 2017） [【YouTube】](https://www.youtube.com/watch?v=ULR1QrEeLk8&feature=youtu.be)[【GitHub】](https://github.com/Nukki/attenDONE)
 
-[(Link) Project on github page](https://github.com/Nukki/attenDONE)
-
-April 2017                                                                                                                             Honorable mention  
 * Created mobile app called attenDONE (Check-In system using an ID card that has a NFC tag)
 * Helped manage check-in process (e.g. school attendance)
 * Used Java, JSON, Android Studio, NFC tag, Slack, and GitHub  
