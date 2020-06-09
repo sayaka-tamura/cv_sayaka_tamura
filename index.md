@@ -85,19 +85,19 @@
 
 # VOLUNTEER
 ### Black Girls CODE
-February 2017 – Present  
-Technical Instructor  
-Help student teams build apps within a web-based tool, and help the students articulate and scope their ideas into an app. 
- 
-### Programming Assistant
-[Waterfall](http:mediaambitiontokyo.jp/waterfall/)  
-November 2017 – December 2017  
-Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as We Have Forgotten the Physical.  
+*Technical Instructor* ＜New York, NY＞（February 2017 – Present） 
 
-### Front-end Developer of a movie for fundraising
-[Shia](https://www.sayaka-tmr.com/works/shia-movie/) 【Closed】
-Fall 2016  
-designed to make people interested in the film that a director produces and to motivate donation.
+* Helped student teams build apps within a web-based tool, and help the students articulate and scope their ideas into an app. 
+ 
+### Media Artist's Assistant
+*Programming Assistant* ＜New York, NY＞（November 2017 – December 2017）   [【Exhibition Website : "Waterfall"】](http://mediaambitiontokyo.jp/2018/waterfall/)  
+
+* Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as *"We Have Forgotten the Physical"*.  
+
+### Film Funding
+*Front-end Developer* ＜New York, NY＞（Fall 2016）【Closed】[Shia](https://www.sayaka-tmr.com/works/shia-movie/)  
+
+* Built a website to make people interested in the film that a director produces and to motivate donation.
 
 ---------------------------------------  
 
@@ -106,7 +106,7 @@ designed to make people interested in the film that a director produces and to m
 
 [(Link) Project on github page](https://github.com/CUNYTech/closetShare)
 
-September 2017 - December 2017  
+（September 2017 - December 2017） 
 * Selected to participate in an intensive portfolio development program, spending 10-12 weeks on a team building an application from scratch. Our team created a shopping web application to help a charitable organization.
 * Used HTML, CSS, React.js., Firebase, Java, PostgreSQL 
 
