@@ -2,6 +2,8 @@
 ### Vicent Co,.Ltd.
 *System Engineer (Full-time)* ＜Tokyo, Japan＞（July 2019 – Present）
 
+[【Training Project】](https://vicent-typing-game.herokuapp.com/app.html) 
+
 * Develop, operate, maintain, and test of a knowledge sharing system at a major advertising agency and a parts ordering system at a major content-related business company
 * Create test plans and test cases, and execute it on integration test of web invoicing system at a major power company
 
