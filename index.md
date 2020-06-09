@@ -1,7 +1,7 @@
 # EDUCATION
-### Platform by Per Scholas  
-Bronx, NY（March 2018 – June 2018）  
-Java Developer Training Course (anticipated date of graduation in June 2018)
+### Platform by Per Scholas
+*Java Developer Training Course* ＜Bronx, NY＞（March 2018 - June 2018）  
+
 
    Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
 
@@ -11,8 +11,7 @@ Java Developer Training Course (anticipated date of graduation in June 2018)
 * [36 hours Clock (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/Week9_HTML/MyProject_ClockLong)
 
 ### Borough of Manhattan Community College  
-New York, NY（January 2018）  
-A.S. in Computer Science  
+*A.S. in Computer Science* ＜New York, NY＞（January 2018）  
 
 - Dean’s List: Fall 2013, Fall 2015
 
@@ -43,11 +42,92 @@ A.S. in Computer Science
 
 * [R](https://github.com/sayaka-tamura/R)
 
-### Musashino Art University  
-Tokyo, Japan（March 2003）  
-B.A. in Imaging Art and Science 
+### Musashino Art University
+*B.A. in Imaging Art and Science* ＜Tokyo, Japan＞（March 2003）  
+ 
  
 *****  
+
+# RELEVANT EXPERIENCE
+### Vicent Co,.Ltd.
+*System Engineer (Full-time)* ＜Tokyo, Japan＞（July 2019 – Present）
+
+* Develop, operate, maintain, and test of a knowledge sharing system at a major advertising agency and a parts ordering system at a major content-related business company
+* Create test plans and test cases, and execute it on integration test of web invoicing system at a major power company
+
+
+### U. S. Japan Publication N.Y., Inc.  
+*WordPress Developer (Intern)* ＜New York, NY＞（September 2016 - June 2019）
+[【Website 1】](https://ujpdb.com/) [【Website 2】](https://restaurantguide.ujpdb.com/)
+
+* Migrated, redesigned, customized the company WordPress website
+* Operated and Maintained the website, publish mockup website using AWS  
+* Improved UI / UX and graphics design
+
+### Freelance 
+ 
+*Web Developer | Research Assistant* ＜New York, NY＞（Dec 2018 - June 2019）
+ [【Website 1】](https://rainorshine.com/)  [【Website 2】](https://setshop.com/)  [【Website 3】](https://setshop.online/)  
+
++ Design, build and manage EC sites using WordPress, Shopify, Wix, BigCommerce and Amazon store
++ Analysis of SEO measures and access logs using Google Analytics
++ Survey work on papers centered on advanced technologies
+
+
+### Sanshodo Printing Co., Ltd.  
+*Editorial & Digital Imaging Designer* ＜Tokyo, Japan＞（April 2004 – March 2011）
+
+* Produced various media such as books, magazines, posters, and leaflets
+* Engaged in editing photographs, corrective working of illustrator data given by designer and publishing companies, and outputting proofs of these data
+* Trained freshman workers, temporary workers and part-time workers
+
+---------------------------------------  
+
+# VOLUNTEER
+### Black Girls CODE
+February 2017 – Present  
+Technical Instructor  
+Help student teams build apps within a web-based tool, and help the students articulate and scope their ideas into an app. 
+ 
+### Programming Assistant
+[Waterfall](http:mediaambitiontokyo.jp/waterfall/)  
+November 2017 – December 2017  
+Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as We Have Forgotten the Physical.  
+
+### Front-end Developer of a movie for fundraising
+[Shia](https://www.sayaka-tmr.com/works/shia-movie/) 【Closed】
+Fall 2016  
+designed to make people interested in the film that a director produces and to motivate donation.
+
+---------------------------------------  
+
+# PROJECT 
+### CUNYCodes  
+
+[(Link) Project on github page](https://github.com/CUNYTech/closetShare)
+
+September 2017 - December 2017  
+* Selected to participate in an intensive portfolio development program, spending 10-12 weeks on a team building an application from scratch. Our team created a shopping web application to help a charitable organization.
+* Used HTML, CSS, React.js., Firebase, Java, PostgreSQL 
+
+---------------------------------------  
+
+# HACKATHON
+### The City University of New York Hackathon  
+
+[(Link) Project on github page](https://github.com/Nukki/attenDONE)
+
+April 2017                                                                                                                             Honorable mention  
+* Created mobile app called attenDONE (Check-In system using an ID card that has a NFC tag)
+* Helped manage check-in process (e.g. school attendance)
+* Used Java, JSON, Android Studio, NFC tag, Slack, and GitHub  
+
+---------------------------------------  
+
+# LANGUAGE SKILLS
+Fluent in spoken and written Japanese
+
+---------------------------------------  
 
 # TECHNICAL SKILLS
 * Programming Languages: 
@@ -88,83 +168,3 @@ B.A. in Imaging Art and Science
 
 * Analytics Software: 
     * Google Analytics  
-
-*****  
-
-# RELEVANT EXPERIENCE
-### Rain or Shine  
-New York, NY  
-[(Link) Rain or Shine](https://rainorshine.com/)  
-Nov 2018 – Present  
-Freelance Web Developer  
-
-### SET SHOP
-New York, NY  
-[(Link) SET SHOP](https://setshop.com/)  
-[(Link) SET SHOP JAPAN](https://setshop.online/)  
-  
-June 2018 - Present  
-Freelance Web Developer  
-* Made a new website alone from scratch for Japanese market
-* Made product lists organizing more than 700 products that the company handles
-* Increased more than 200 % SNS followers at maximum in 6 months
-
-### U. S. Japan Publication N.Y., Inc.  
-New York, NY  
-[(Link) UJP NEWS](https://ujpdb.com/)
-
-September 2016 – Present  
-WordPress Developer (Intern)
-* Established creative and dependable website applying 3+ years’ experience
-* Utilize WordPress core software, database connectivity and its functions  
-* Execute and monitor standards for user interface page design and graphics development
-* Oversee the hosting environment for websites
-
-### Sanshodo Printing Co., Ltd.  
-Tokyo, Japan  
-Editorial & Digital Imaging Designer  
-April 2004 – March 2011  
-
-# VOLUNTEER
-### Black Girls CODE
-February 2017 – Present  
-Technical Instructor  
-Help student teams build apps within a web-based tool, and help the students articulate and scope their ideas into an app. 
- 
-### Programming Assistant
-[Waterfall](http:mediaambitiontokyo.jp/waterfall/)  
-November 2017 – December 2017  
-Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as We Have Forgotten the Physical.  
-
-### Front-end Developer of a movie for fundraising
-[Shia](https://www.sayaka-tmr.com/works/shia-movie/) 【Closed】
-Fall 2016  
-designed to make people interested in the film that a director produces and to motivate donation.
-
-
----------------------------------------  
-
-# PROJECT 
-### CUNYCodes  
-
-[(Link) Project on github page](https://github.com/CUNYTech/closetShare)
-
-September 2017 - December 2017  
-* Selected to participate in an intensive portfolio development program, spending 10-12 weeks on a team building an application from scratch. Our team created a shopping web application to help a charitable organization.
-* Used HTML, CSS, React.js., Firebase, Java, PostgreSQL 
-
----------------------------------------  
-
-# HACKATHON
-### The City University of New York Hackathon  
-
-[(Link) Project on github page](https://github.com/Nukki/attenDONE)
-
-April 2017                                                                                                                             Honorable mention  
-* Created mobile app called attenDONE (Check-In system using an ID card that has a NFC tag)
-* Helped manage check-in process (e.g. school attendance)
-* Used Java, JSON, Android Studio, NFC tag, Slack, and GitHub  
-
-
-## LANGUAGE SKILLS
-Fluent in spoken and written Japanese
