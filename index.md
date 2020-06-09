@@ -100,7 +100,7 @@
 * Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as *"We Have Forgotten the Physical"*.  
 
 ### Film Funding
-*Front-end Developer* ＜New York, NY＞（Fall 2016）【Closed】[Shia](https://www.sayaka-tmr.com/works/shia-movie/)  
+*Front-end Developer* ＜New York, NY＞（Fall 2016）【Closed】[【Website】](https://www.sayaka-tmr.com/works/shia-movie/)  
 
 * Built a website to make people interested in the film that a director produces and to motivate donation.
 
@@ -132,39 +132,50 @@ Fluent in spoken and written Japanese
 
 # TECHNICAL SKILLS
 * Programming Languages: 
-    * HTML
-    * CSS
-    * JavaScript
-    * SQL
     * Java
-    * PHP (for WordPress)
-    * R
+    * PHP
+    * JavaScript
+    * HTML/CSS
     * Python
     * Assembly Language
+    * R
+<br /> 
+
+* Databases:
+    * MySQL
+    * PostgreSQL
+    * Oracle
+<br /> 
+ 
+* Application Servers:
+    * Apache
+    * Tomcat
 <br />  
 
-* Frameworks/Library: 
-    * Bootstrap
-    * Sass
-    * Express.js
-    * Node.js
-    * MySQL (phpMyAdmin)  
+* Frameworks/Libraries: 
+    * Java
+        * Spring, JAVA EE, Junit
+    * PHP
+        * Laravel
+    * JavaScript
+        * Node.js, Express.js
 <br />  
 
-* Development Tools: 
-    * IntelliJ
-    * Eclipse
-    * Visual Studio
-    * Android Studio
-    * Git
-    * JIRA
-    * Slack
-    * Fiddler  
-<br />  
+* Insrastructures: 
+    * AWS
+    * Firebase
+    * Heroku 
+<br /> 
 
-* Cloud: 
-    * AWS EC2
-    * AWS S3
+* Software Configuration Management: 
+    * VCS / Project Management
+        * Git
+        * SVN
+        * Azure DevOps
+        * Redmine
+        * JIRA
+    * CI
+        * Jenkins
 <br />  
 
 * Analytics Software: 
