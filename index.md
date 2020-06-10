@@ -102,7 +102,7 @@
 * Assisted Global Fine Artist, Gil Kuno using Arduino and C++ to present his experimental artwork in exhibitions such as *"We Have Forgotten the Physical"*.  
 
 ### Film Funding
-*Front-end Developer* ＜New York, NY＞（Fall 2016）【Closed】[【Website】](https://www.sayaka-tmr.com/works/shia-movie/)  
+*Front-end Developer* ＜New York, NY＞（Fall 2016）《Closed》[【Website】](https://www.sayaka-tmr.com/works/shia-movie/)  
 
 * Built a website to make people interested in the film that a director produces and to motivate donation.
 
