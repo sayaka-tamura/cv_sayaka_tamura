@@ -46,9 +46,8 @@
 * Training covered exploration on how to be efficient in Agile-Scrum project methodologies using Jira. Managed databases requiring SQL and learned how to install, configure, connect, query with Oracle. Additional topics included multithreading, collections, basic I/O, Concurrency, JDBC, Java networking and more. 
 
 ##### Pick Up Projects
-* [Final Project (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/finalCaseStudies_springMVC)
-
 * 36Hours・48Hours Clock [【Website】](https://clock-36or48hours.herokuapp.com/) [【GitHub】](https://github.com/sayaka-tamura/Clock_36h_48h)
+* [Final Project (not deployed)](https://github.com/sayaka-tamura/PerScholas_JavaDeveloper/tree/master/finalCaseStudies_springMVC)
 
 ### Borough of Manhattan Community College  
 *A.S. in Computer Science* ＜New York, NY＞（January 2018）  
