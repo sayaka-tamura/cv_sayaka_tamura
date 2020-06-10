@@ -141,7 +141,6 @@ Fluent in spoken and written Japanese
     * Python
     * Assembly Language
     * R
-<br /> 
 
 * Databases:
     * MySQL
