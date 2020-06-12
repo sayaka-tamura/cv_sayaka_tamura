@@ -153,7 +153,7 @@ Fluent in spoken and written Japanese
 
 * Frameworks/Libraries: 
     * Java
-        * Spring, JAVA EE, Junit
+        * Spring Framework, Junit
     * PHP
         * Laravel
     * JavaScript
